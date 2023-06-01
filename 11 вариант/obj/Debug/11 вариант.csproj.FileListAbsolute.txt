@@ -1,0 +1,11 @@
+C:\Users\325L-11\Desktop\шумкова пр-21\11 вариант\bin\Debug\11 вариант.exe.config
+C:\Users\325L-11\Desktop\шумкова пр-21\11 вариант\bin\Debug\11 вариант.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\11 вариант\bin\Debug\11 вариант.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\11 вариант\obj\Debug\11 вариант.csproj.AssemblyReference.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\11 вариант\obj\Debug\11 вариант.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\11 вариант\obj\Debug\_11_вариант.Form1.resources
+C:\Users\325L-11\Desktop\шумкова пр-21\11 вариант\obj\Debug\_11_вариант.Properties.Resources.resources
+C:\Users\325L-11\Desktop\шумкова пр-21\11 вариант\obj\Debug\11 вариант.csproj.GenerateResource.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\11 вариант\obj\Debug\11 вариант.csproj.CoreCompileInputs.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\11 вариант\obj\Debug\11 вариант.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\11 вариант\obj\Debug\11 вариант.pdb
